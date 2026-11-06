@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Entornos / editores
+.vscode/
+.idea/
+.ipynb_checkpoints/
+
+# Temporales de Office/Excel
+~$*
+.DS_Store
+Thumbs.db
+
+# Salidas generadas
+*.png
