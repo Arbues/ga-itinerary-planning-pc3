@@ -100,4 +100,5 @@ Corrida de verificación (Python 3.12, NumPy/SciPy actuales):
 ## Licencia
 
 MIT — ver [LICENSE](LICENSE). Obra derivada del repositorio original de MuhammedSehab
-(© 2024), que se distribuye bajo la misma licencia.
+(© 2024), que se distribuye bajo la misma licencia. El texto de `LICENSE` se conserva
+intacto; el port a Python es © 2026 Arbués Enrique Pérez V.
